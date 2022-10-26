@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1619370616 source:c:\users\msi\desktop\codeblock\homework1c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1666711387 source:c:\users\msi\desktop\basic c code\basicarithmeticcalc\main.c
+	<stdio.h>
+	<stdlib.h>
+

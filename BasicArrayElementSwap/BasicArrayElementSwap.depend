@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618263245 source:c:\users\msi\desktop\codeblock\cprelabtwo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1618263245 source:c:\users\msi\desktop\basic c code\basicarrayelementswap\main.c
+	<stdio.h>
+	<stdlib.h>
+

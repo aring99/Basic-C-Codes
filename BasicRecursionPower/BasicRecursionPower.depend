@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617200168 source:c:\users\msi\desktop\codeblock\clab1\clab1part2.c
+
+1617201788 source:c:\users\msi\desktop\codeblock\clab1\main.c
+	<stdio.h>
+

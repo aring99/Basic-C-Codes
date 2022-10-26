@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622633872 source:c:\users\msi\desktop\codeblock\lab5c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
